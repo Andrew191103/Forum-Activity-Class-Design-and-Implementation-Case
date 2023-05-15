@@ -10,5 +10,7 @@ Employee Inheritance:
 The administration program handles the salaries of managers, office staff, and sales personnel. These employee types may have common attributes like name and ID, as well as shared behaviors like salary calculation. Inheritance can be applied by creating a base "Employee" class with shared attributes and methods. Then, specific employee types, such as "Manager," "OfficeStaff," and "SalesPerson," can be derived from the base class, inheriting the common features and implementing their unique functionalities.
 
    c. Libraries play a crucial role in facilitating the development of programs like the administration program. They provide pre-existing code and functionality that can be leveraged to simplify development and enhance efficiency. By utilizing libraries, the administration program can save development time, reduce complexity, and benefit from well-tested and optimized code.
+   
+  2.) c. (i) ![Space N = 1000](Screenshot 2023-05-15 at 20.26.13.png)
 
 
