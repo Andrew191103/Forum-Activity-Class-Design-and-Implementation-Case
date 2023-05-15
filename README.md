@@ -11,5 +11,6 @@ The administration program handles the salaries of managers, office staff, and s
 
    c. Libraries play a crucial role in facilitating the development of programs like the administration program. They provide pre-existing code and functionality that can be leveraged to simplify development and enhance efficiency. By utilizing libraries, the administration program can save development time, reduce complexity, and benefit from well-tested and optimized code.
    
-  2.) c. (i) ![UML](Screenshot 2023-05-15 at 20.26.13.png)
+  2.) c. (i) 
+  ![UML](Screenshot 2023-05-15 at 20.26.13.png)
 
