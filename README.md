@@ -16,9 +16,9 @@ The administration program handles the salaries of managers, office staff, and s
   
  (ii) A future change in the design of the Sales object may have a negative effect on the suite of programs. If the change is not backward compatible or alters the structure, it can lead to code breakage, data inconsistencies, and dependencies that require code modifications, potentially introducing bugs and errors.
  
-   d. 102 
-   2 
-   2550.4 
+   d. 102, 
+   2, 
+   2550.4, 
    6000.0 
    
    h. To enable salary calculations based on sales, you can add a new instance variable monthlySalary to the SalesPerson class, representing the fixed monthly salary. Additionally, modify the constructor to include the monthlySalary parameter. This allows you to store and access the monthly salary for each salesperson.
