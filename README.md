@@ -21,4 +21,8 @@ The administration program handles the salaries of managers, office staff, and s
    2550.4 
    6000.0 
    
+   h. To enable salary calculations based on sales, you can add a new instance variable monthlySalary to the SalesPerson class, representing the fixed monthly salary. Additionally, modify the constructor to include the monthlySalary parameter. This allows you to store and access the monthly salary for each salesperson.
+
+  i. Polymorphism is exhibited in this suite of programs through the use of inheritance and method overriding. The SalesPerson class inherits from the Person class, demonstrating the concept of inheritance. Moreover, the SalesPerson class overrides the calcTotalSales() method from the superclass, showcasing method overriding. This allows different behavior for calculating total sales for a salesperson. Polymorphism enables code reusability and flexibility in the program's design.
+   
   
